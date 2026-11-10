@@ -92,12 +92,3 @@ A learning repository of hands-on notebooks on core business-analysis techniques
 * 🏅 Google Advanced Data Analytics
 * 🏅 Google Gemini for Educators
 * 🏅 SQL Advanced, Xóm Data
-
-## 📫 Let's Connect
-
-I'm open to **Data Analyst / Analytics Engineer** opportunities. Feel free to reach out via [email](mailto:hung06.nvth@gmail.com) or [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN).
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghun06&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghun06&layout=compact&hide_border=true" alt="Top languages" height="150">
-</p>
